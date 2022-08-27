@@ -1,3 +1,10 @@
+`ORG.SGF:`
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Special-graphic-formats/zpng)
+![GitHub Release Date](https://img.shields.io/github/release-date/Special-graphic-formats/zpng)
+![GitHub repo size](https://img.shields.io/github/repo-size/Special-graphic-formats/zpng)
+![GitHub all releases](https://img.shields.io/github/downloads/Special-graphic-formats/zpng/total)
+![GitHub](https://img.shields.io/github/license/Special-graphic-formats/zpng)  
+
 # Zpng
 Small experimental lossless photographic image compression library with a C API and command-line interface.
 
